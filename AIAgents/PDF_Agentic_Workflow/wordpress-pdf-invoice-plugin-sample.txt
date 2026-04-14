@@ -1,0 +1,34 @@
+Invoice Details:
+*   Invoice Number: INV-3337
+*   Order Number: 12345
+*   Invoice Date: January 25, 2016
+*   Due Date: January 31, 2016
+*   Total Due: $93.50
+
+Seller Information (From):
+*   Name: DEMO - Sliced Invoices
+*   Address: Suite 5A-1204, 123 Somewhere Street, Your City AZ 12345
+*   Email: admin@slicedinvoices.com
+
+Customer Information (To):
+*   Name: Test Business
+*   Address: 123 Somewhere St, Melbourne, VIC 3000
+*   Email: test@test.com
+
+Service Details:
+*   Service: Web Design
+*   Description: This is a sample description...
+*   Quantity/Hours: 1.00
+*   Rate/Price: $85.00
+*   Adjustment: 0.00%
+*   Sub Total (Service): $85.00
+
+Summary:
+*   Sub Total: $85.00
+*   Tax: $8.50
+*   Total: $93.50
+
+Bank Details:
+*   Bank: ANZ Bank
+*   Account Number: 1234 1234
+*   BSB Number: 4321 432
